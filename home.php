@@ -15,16 +15,11 @@
           <!-- Navbar -->
             <?php include("layout/top_navbar.php");?>
           <!-- / Navbar -->
-          
           <!-- Content wrapper -->
-          <div class="content-wrapper">
-            <!-- Content -->
-           
-            <!-- / Content -->
-
-            
           
-         
+          <div class="content-wrapper">
+          <?php include ("placeholder.php");?>
+            
             <div class="content-backdrop fade"></div>
           </div>
           
