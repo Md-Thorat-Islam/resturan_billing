@@ -25,7 +25,7 @@
           
           <!-- Content wrapper -->
         </div>
-        <!-- / Layout page -->
+    
       </div>
 
       <!-- Overlay -->
