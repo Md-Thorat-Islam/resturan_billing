@@ -1,0 +1,9 @@
+
+#ctgForm, input::-webkit-outer-spin-button,
+#ctgForm, input::-webkit-inner-spin-button {
+    -webkit-appearance: none !important;
+    margin: 0 !important;
+}
+#ctgForm, input[type=number] {
+    -moz-appearance: textfield !important;
+}
